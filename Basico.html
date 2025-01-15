@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grilla de Canales</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Grilla de Canales</h1>
+    </header>
+    <main>
+        <div class="grid" id="channel-grid"></div>
+    </main>
+    <script>
+        // Cargar el JSON de canales
+        fetch('channels.json')
+            .then(response => response.json())
+            .then(channels => {
+                const grid = document.getElementById('channel-grid');
+                channels.forEach(channel => {
+                    const channelDiv = document.createElement('div');
+                    channelDiv.className = 'channel';
+                    channelDiv.innerHTML = `
+                        <img src="${channel.logo}" alt="${channel.name}">
+                        <p>${channel.number}. ${channel.name}</p>
+                    `;
+                    grid.appendChild(channelDiv);
+                });
+            })
+            .catch(error => console.error('Error cargando canales:', error));
+    </script>
+</body>
+</html>
