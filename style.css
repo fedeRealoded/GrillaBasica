@@ -40,7 +40,7 @@ header h1 {
 /* Cada canal */
 .channel {
   text-align: center;
-  padding: 10px;
+  padding: 8px;
   border: 2px solid #2f553a;
   border-radius: 5px;
   background-color: #CEC5A6;
@@ -62,8 +62,8 @@ header h1 {
 
 /* Imagen del logo */
 .channel img {
-  max-width: 80%;
-  max-height: 80px;
+  max-width: 70%;
+  max-height: 70px;
   margin-bottom: 10px;
   border-radius: 4px;
 }
