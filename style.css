@@ -41,7 +41,7 @@ header h1 {
 .channel {
   text-align: center;
   padding: 10px;
-  border: 1px solid #ddd;
+  border: 1px solid #2f553a;
   border-radius: 8px;
   background-color: #CEC5A6;
   transition: transform 0.2s, box-shadow 0.2s;
