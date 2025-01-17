@@ -71,8 +71,8 @@
   },
   {
     "number": 16,
-    "name": "METRO",
-    "logo": "logos/metro-ar.png"
+    "name": "DeporTV",
+    "logo": "logos/deportv-ar.png"
   },
   {
     "number": 17,
@@ -130,94 +130,114 @@
     "logo": "logos/star-channel-ar.png"
   },
   {
-    "number": 45,
+    "number": 28,
     "name": "WARNER",
     "logo": "logos/warner-channel-ar.png"
   },
   {
-    "number": 46,
+    "number": 29,
     "name": "SONY",
     "logo": "logos/sony-channel-ar.png"
   },
   {
-    "number": 47,
+    "number": 30,
     "name": "TNT",
     "logo": "logos/tnt-ar.png"
   },
   {
-    "number": 48,
+    "number": 31,
     "name": "TNT SERIES",
     "logo": "logos/tnt-series-ar.png"
   },
   {
-    "number": 49,
+    "number": 32,
     "name": "UNIVERSAL CHANNEL",
     "logo": "logos/universal-tv-ar.png"
   },
   {
-    "number": 50,
+    "number": 33,
     "name": "SPACE",
     "logo": "logos/space-ar.png"
   },
   {
-    "number": 51,
+    "number": 34,
     "name": "ANIMAL PLANET",
     "logo": "logos/animal-planet-ar.png"
   },
   {
-    "number": 52,
+    "number": 35,
     "name": "NAT GEO",
     "logo": "logos/national-geographic-ar.png"
   },
   {
-    "number": 53,
+    "number": 36,
     "name": "History Channel",
     "logo": "logos/history-channel-ar.png"
   },
   {
-    "number": 54,
+    "number": 37,
     "name": "DISCOVERY CHANNEL",
     "logo": "logos/discovery-channel-ar.png"
   },
   {
-    "number": 55,
+    "number": 38,
     "name": "DISCOVERY H&H",
     "logo": "logos/discovery-home-and-health-ar.png"
   },
   {
-    "number": 56,
+    "number": 39,
     "name": "MAS CHIC",
     "logo": "logos/mas-chic-ar.png"
   },
   {
-    "number": 57,
+    "number": 40,
     "name": "Gourmet",
     "logo": "logos/el-gourmet-ar.png"
   },
   {
-    "number": 58,
+    "number": 41,
+    "name": "El Garage",
+    "logo": "logos/el-garage-tv-ar.png"
+  },
+    {
+    "number": 42,
+    "name": "Discovery Turbo",
+    "logo": "logos/discovery-turbo-ar.png"
+  },
+    {
+    "number": 43,
+    "name": "ID Discovery",
+    "logo": "logos/id-investigation-discovery-ar.png"
+  },
+    {
+    "number": 44,
+    "name": "Europa Europa,
+    "logo": "logos/europa-europa-ar.png"
+  },
+  {
+    "number": 45,
     "name": "NICKJR",
     "logo": "logos/nick-jr-ar.png"
   },
   {
-    "number": 59,
+    "number": 46,
     "name": "CARTOON NETWORK",
     "logo": "logos/cartoon-network-ar.png"
   },
   {
-    "number": 60,
+    "number": 47,
     "name": "DISNEY CHANNEL",
     "logo": "logos/disney-channel-ar.png"
   },
   {
     "number": 95,
-    "name": "El Garage",
-    "logo": "logos/el-garage-tv-ar.png"
+    "name": "Metro",
+    "logo": "logos/metro-ar.png"
   },
   {
     "number": 96,
-    "name": "Discovery Turbo",
-    "logo": "logos/discovery-turbo-ar.png"
+    "name": "Canal 10 Cordoba,
+    "logo": "logos/canal-10-ar.png"
   },
   {
     "number": 97,
